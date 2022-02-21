@@ -1,0 +1,938 @@
+M=MODULE	module_enabled	module_name
+S=SUBJECT	subject_enabled	subject_name	subject_description
+Q=QUESTION	question_enabled	question_description	question_explanation	question_type	question_difficulty	question_position	question_timer	question_fullscreen	question_inline_answers	question_auto_next
+A=ANSWER	answer_enabled	answer_description	answer_explanation	answer_isright	answer_position	answer_keyboard_key
+
+M	1	default
+M	1	Entry Exam
+S	1	CURRENT AFFAIRS	"In each of the following questions, Select the correct answer."
+Q	1	____________________ is the senate president between 1992 - 1993		M	1		0	0	0	0
+A	1	Dr iyorchia ayu		1		
+A	1	Chief anyim pius anyim		0		
+A	1	Ken nnamani		0		
+A	1	Dr chuba okadigbo		0		
+A	1	Dr joseph wayan		0		
+Q	1	"Before you can have the national identity card, you must have attained the age of ______________"		M	1		0	0	0	0
+A	1	18 years		1		
+A	1	28 years		0		
+A	1	38 years		0		
+A	1	48 years		0		
+A	1	58 years		0		
+Q	1	1000 naira note was launched on		M	1		0	0	0	0
+A	1	12th October 2005		1		
+A	1	14th October 2004		0		
+A	1	12th October 2006		0		
+A	1	13th October 2005		0		
+A	1	10th October 2004		0		
+Q	1	A democratic government is always formed by		M	1		0	0	0	0
+A	1	Election		1		
+A	1	Appointment		0		
+A	1	Consensus		0		
+A	1	Conferment		0		
+A	1	Nomination		0		
+Q	1	A Nigeria _______________________ emerged a world heavy weight champion in boxing		M	1		0	0	0	0
+A	1	Samuel peter		1		
+A	1	Tunde adabi		0		
+A	1	Kanu nwakwo		0		
+A	1	Peter obi		0		
+A	1	Ifeouwa opeyemi		0		
+Q	1	Alhaji umaru musa yaradua became the civilian president of Nigeria on ______________________		M	1		0	0	0	0
+A	1	May 29 2007		1		
+A	1	June 12 2003		0		
+A	1	May 29 1999		0		
+A	1	May 29 2003		0		
+A	1	May 27 2007		0		
+Q	1	Cedi is to ghana as ____________________ is to south africa		M	1		0	0	0	0
+A	1	Rand		1		
+A	1	Naira		0		
+A	1	Dollar		0		
+A	1	Pans		0		
+A	1	Yen		0		
+Q	1	How many stanzas are in the national anthem?		M	1		0	0	0	0
+A	1	Two		1		
+A	1	One		0		
+A	1	Three		0		
+A	1	Four		0		
+A	1	Five		0		
+Q	1	Jigawa state is _____________________________ as nassarawa is ______________________		M	1		0	0	0	0
+A	1	The new world and home of solid minerals		1		
+A	1	God's own state and land of equity		0		
+A	1	The new world and the big hear		0		
+A	1	Pride of the nation and the new world		0		
+A	1	Farming is our pride and salt of the nation		0		
+Q	1	Nigeria change from left hand drive on __________________________________		M	1		0	0	0	0
+A	1	April 2nd 1972		1		
+A	1	Oct 1st 1963		0		
+A	1	Jan 1st 1973		0		
+A	1	Feb 5th 1976		0		
+A	1	Oct 1st 1960		0		
+Q	1	One of these is not a continent __________________________		M	1		0	0	0	0
+A	1	Uganda		1		
+A	1	Asia		0		
+A	1	Australia		0		
+A	1	North america		0		
+A	1	Africa		0		
+Q	1	Slave trade was abolished in ______________________________		M	1		0	0	0	0
+A	1	1838		1		
+A	1	1954		0		
+A	1	1809		0		
+A	1	2004		0		
+A	1	2014		0		
+Q	1	The black shield of the coat of arms symbolizes _____________________________		M	1		0	0	0	0
+A	1	Fertile soil		1		
+A	1	Beauty		0		
+A	1	Dignity		0		
+A	1	Strength		0		
+A	1	River niger and river benue		0		
+Q	1	The chief justice of Nigeria supreme court between 2006 - 2007 is ______________________		M	1		0	0	0	0
+A	1	Salihu m.alfa belgore		1		
+A	1	Ademola adetokunbo		0		
+A	1	Dahine mustaphar		0		
+A	1	Aloysius katsina-alu		0		
+A	1	Aloma muktar		0		
+Q	1	The death of the first lady of Nigeria mrs stella obanjo occurred on ___________________ 2005		M	1		0	0	0	0
+A	1	23rd oct.		1		
+A	1	21st oct.		0		
+A	1	22nd oct.		0		
+A	1	24th oct.		0		
+A	1	25th Feb.		0		
+Q	1	The efik are found in the following states _______________________________		M	1		0	0	0	0
+A	1	Cross rivers		1		
+A	1	Adamawa		0		
+A	1	Benue		0		
+A	1	Delta		0		
+A	1	Rivers		0		
+Q	1	The famous sokoto caliphate was established by ___________________________________		M	1		0	0	0	0
+A	1	Usman danfodio		1		
+A	1	Ahmadu bello		0		
+A	1	Mohammadu bello		0		
+A	1	Nana asama'u 		0		
+A	1	Abubarka tafawa balewa		0		
+Q	1	The first country in the world to get independence is _________________________________		M	1		0	0	0	0
+A	1	Hungary		1		
+A	1	Nigeria		0		
+A	1	Ivory coast		0		
+A	1	Algeria		0		
+A	1	South africa		0		
+Q	1	The first female governor in Nigeria is ________________________		M	1		0	0	0	0
+A	1	Mrs virginia etiaba		1		
+A	1	Patrick olubunmi ette		0		
+A	1	Mary slessour		0		
+A	1	Turai yar adua		0		
+A	1	Mrs peter obiora		0		
+Q	1	The first female pilot is _______________________________ and the first chairman of ecowas is 		M	1		0	0	0	0
+A	1	Mrs chinyere onyenuche and gen yakubu gowon		1		
+A	1	Mrs rose menyen ukeje and jerry rawlings		0		
+A	1	Dr elizabeth abimbola and yen yakubu gowon		0		
+A	1	Mrs efunroye tinubu and jerry rawlings		0		
+A	1	Mrs olufunmilayo kuti and president shehu shagari		0		
+Q	1	The first female president in Africa is _____________________________		M	1		0	0	0	0
+A	1	Ellen jonson sirleaf		1		
+A	1	Mrs olubunmi ette		0		
+A	1	Queen Elisbeth		0		
+A	1	T. Yar adua		0		
+A	1	Mrs kofi ana		0		
+Q	1	The first Nigeria female to be elected in the legislative assembly was _____________________		M	1		0	0	0	0
+A	1	Mrs magaret ekpo		1		
+A	1	Funmilayo ransome kuti		0		
+A	1	Amina kano		0		
+A	1	Mary slessor		0		
+A	1	Patience jonathan		0		
+Q	1	The first publisher of newspaper in Nigeria was ________________________________		M	1		0	0	0	0
+A	1	Rev'd henry townsend		1		
+A	1	James robert		0		
+A	1	Herbert machauly		0		
+A	1	Obafemi awolowo		0		
+A	1	Nnamdi azikwe		0		
+Q	1	The first secondry school owned by government in Nigeria was __________________ in 1909		M	1		0	0	0	0
+A	1	King's college		1		
+A	1	Afe babalola international school		0		
+A	1	U.i college		0		
+A	1	Cms grammar school		0		
+A	1	Lagos grammar school		0		
+Q	1	The flag of Nigeria was designed by _____________________________ in the year _________________________ and was officially hosted on _______________________		M	1		0	0	0	0
+A	1	Mr micheal akinkunmi / 1959 / 1960		1		
+A	1	Sir ajayi crowther / 1949 / 1960		0		
+A	1	Sir lord lugard / 1959 / 1963		0		
+A	1	Aare afe babalola / 1949 / 1963		0		
+A	1	Heabert macharly / 1949 / 1960		0		
+Q	1	The full meaning of EFCC is _____________________________________		M	1		0	0	0	0
+A	1	Economic and financial crime commission		1		
+A	1	Economic community of west Africa state		0		
+A	1	Economic and finance crime commission		0		
+A	1	Econs and friend commission		0		
+A	1	None of the above		0		
+Q	1	The governonr of central bank of Nigeria (cbn) between 1999 -2004 is ______________________________		M	1		0	0	0	0
+A	1	Chief joseph sanusi		1		
+A	1	Sanusi lamido sanusi		0		
+A	1	Prof charles soludo		0		
+A	1	Dr paul ogwuma		0		
+A	1	Godwin emeifele		0		
+Q	1	The headquarters of the confederation of African football (caf) is located at ________________		M	1		0	0	0	0
+A	1	"Cairo, Egypt"		1		
+A	1	"Abuja, Nigeria"		0		
+A	1	"Accra, Ghana"		0		
+A	1	"Monrovia, Liberia"		0		
+A	1	"Addis Ababa, Ethiopia"		0		
+Q	1	The highest denomination of the Nigeria currency is _____________________________		M	1		0	0	0	0
+A	1	One thousand naira		1		
+A	1	Fifty naira		0		
+A	1	Two hundred naira		0		
+A	1	Five hundred naira		0		
+A	1	Five thousand naira		0		
+Q	1	The highest mountain in Africa is ____________________________		M	1		0	0	0	0
+A	1	Kilimanjaro		1		
+A	1	Cameroon		0		
+A	1	Atlas		0		
+A	1	Everest		0		
+A	1	Futajillon		0		
+Q	1	The largest city in the world is _______________________________		M	1		0	0	0	0
+A	1	Tokyo japan		1		
+A	1	Shanghai china		0		
+A	1	Cairo egypt		0		
+A	1	Ibadan Nigeria		0		
+A	1	London england		0		
+Q	1	The largest continent in the world is __________________________		M	1		0	0	0	0
+A	1	Asia		1		
+A	1	Africa		0		
+A	1	Australia		0		
+A	1	Europe		0		
+A	1	North America		0		
+Q	1	The longest serving head of state in Nigeria is ___________________________		M	1		0	0	0	0
+A	1	Gen olusegun obasanjo		1		
+A	1	Gen sanni abacha		0		
+A	1	Gen ibrahim babangida		0		
+A	1	Gen muhammed buhari		0		
+A	1	Gen abdusalam abubarkar		0		
+Q	1	The nationalanthem was composed by ___________________________		M	1		0	0	0	0
+A	1	Aig ben odiase		1		
+A	1	Taiwo akinkunmi		0		
+A	1	Ifeoluwa Opeyemi		0		
+A	1	Wole soyinka		0		
+A	1	Tunde adabi		0		
+Q	1	The official title of the head of the central bank of Nigeria is __________________________		M	1		0	0	0	0
+A	1	Governor		1		
+A	1	Controller general		0		
+A	1	Accountant general		0		
+A	1	Chairman		0		
+A	1	Managing director		0		
+Q	1	The point at which two rivers meet is called ____________________________		M	1		0	0	0	0
+A	1	Confluence		1		
+A	1	Island		0		
+A	1	Delta		0		
+A	1	Lake		0		
+A	1	Meeting point		0		
+Q	1	The pro chancellor of afe babalola university is __________________________________		M	1		0	0	0	0
+A	1	Prof iyorwuese hagher		1		
+A	1	Prof michael ajisafe		0		
+A	1	Prof israel orubuloye		0		
+A	1	Prof israel owolabi		0		
+A	1	Aare afe babalola		0		
+Q	1	The slogan (sunshine state) is for ondo state as ____________________________ is for kogistate		M	1		0	0	0	0
+A	1	The confluence state		1		
+A	1	Land of hope		0		
+A	1	Land of equity		0		
+A	1	Sunshine state		0		
+A	1	State of harmony		0		
+Q	1	The symbol of authority in the national assembly is _____________________________________		M	1		0	0	0	0
+A	1	The mace		1		
+A	1	The coat of arms		0		
+A	1	The flag		0		
+A	1	The national anthem		0		
+A	1	None of the above		0		
+Q	1	The winner of 2016 unilever idea trophy is _____________________________________		M	1		0	0	0	0
+A	1	Olamide popoola		1		
+A	1	Aare afe babalola		0		
+A	1	Ahwin kevin		0		
+A	1	Sobola timilehin		0		
+A	1	Seun adeyemo		0		
+Q	1	There are __________________ local governments in Nigeria		M	1		0	0	0	0
+A	1	774		1		
+A	1	725		0		
+A	1	645		0		
+A	1	685		0		
+A	1	690		0		
+Q	1	There are __________________ senators and ___________ members of the house of representative.		M	1		0	0	0	0
+A	1	109 and 360		1		
+A	1	105 and 300		0		
+A	1	98 and 320		0		
+A	1	107 and 370		0		
+A	1	99 and 310		0		
+Q	1	What is the minimum recapitalization fund by cbn in Nigeria		M	1		0	0	0	0
+A	1	25 billion		1		
+A	1	40 billion		0		
+A	1	30 million		0		
+A	1	30 billion		0		
+A	1	45 billion		0		
+Q	1	Which of the following countries hosted 2006 nation/world cup		M	1		0	0	0	0
+A	1	Egypt/germany		1		
+A	1	Ghana/u.s.a		0		
+A	1	Togo/jamaica		0		
+A	1	Nigeria/france		0		
+A	1	Poland/ireland		0		
+Q	1	Which of the following is not found in Nigeria  ___________________________		M	1		0	0	0	0
+A	1	Silver		1		
+A	1	Coal		0		
+A	1	Gold		0		
+A	1	Iron ore		0		
+A	1	Limestone		0		
+Q	1	Which of the following men never ruled Nigeria ______________________		M	1		0	0	0	0
+A	1	Chief m.k.o abiola		1		
+A	1	Alhaji aliyu shehu shagari		0		
+A	1	Chief earnest shonekan		0		
+A	1	Chief aguyi ironsi		0		
+A	1	Gen ibrahim babangida		0		
+Q	1	Which of the following town has no airport		M	1		0	0	0	0
+A	1	Ikare		1		
+A	1	Ibadan		0		
+A	1	Ikeja		0		
+A	1	Kano		0		
+A	1	Akure		0		
+Q	1	Which year did Nigeria civil war end? ________________________		M	1		0	0	0	0
+A	1	1970		1		
+A	1	1967		0		
+A	1	1972		0		
+A	1	1990		0		
+A	1	2003		0		
+S	1	MATH	
+Q	1	"A family pays $800 per year for an insurance plan that pays 80 percent of the first$1,000 in expenses and 100 percent of all medical expenses thereafter. In any given year, the total amount paid by the family will equal the amount paid by the plan when the family's medical expenses total."		S	1		0	0	0	0
+A	1	"$1,200 "		1		
+A	1	"$1,000 "		0		
+A	1	"$1,400 "		0		
+A	1	"$1,800 "		0		
+A	1	"$2,200 "		0		
+Q	1	"A sink contains exactly 12 liters of water. If water is drained from the sink until it holds exactly 6 liters of water less than the quantity drained away, how many liters of water were drained away?"		S	1		0	0	0	0
+A	1	9		1		
+A	1	2		0		
+A	1	3		0		
+A	1	4.5		0		
+A	1	6		0		
+Q	1	"All German philosophers, except for Marx, are idealists.\r\n\r\nFrom which of the following can the statement above be most properly inferred?"		S	1		0	0	0	0
+A	1	"Aside from the philosopher Marx, if someone is a German philosopher, then he or she is an idealist."		1		
+A	1	"Except for Marx, if someone is an idealist philosopher, then he or she is German."		0		
+A	1	Marx is the only non-German philosopher who is an idealist.		0		
+A	1	"If a German is an idealist, then he or she is a philosopher, as long as he or she is not Marx."		0		
+A	1	Marx is not an idealist German philosopher.		0		
+Q	1	"Cheese, bologna, and peanut butter sandwiches were made for a picnic in a ratio of5 to 7 to 8. If a total of 120 sandwiches were made, how many bologna sandwiches were made?"		S	1		0	0	0	0
+A	1	42		1		
+A	1	15		0		
+A	1	30		0		
+A	1	38		0		
+A	1	48		0		
+Q	1	"Company C sells a line of 25 products with an average retail price of $1,200. If none of these products sells for less than $420, and exactly 10 of the products sell for less than $1,000, what is the greatest possible selling price of the most expensive product?"		S	1		0	0	0	0
+A	1	"$11,800 "		1		
+A	1	"$2,600 "		0		
+A	1	"$3,900 "		0		
+A	1	"$7,800 "		0		
+A	1	"$18,200 "		0		
+Q	1	"DIRECTIONS:\r\nSelect the answer choice that represents the best revision of the underlined text. Choice A duplicates the original version. If the original seems better than any of the revisions, then select it.\r\n\r\nMany of the thousands of students currently enrolled in night courses hope for theexchanging of their drab jobs for new careers that are challenging."		S	1		0	0	0	0
+A	1	to exchange their drab jobs with new careers that will be new and challenging		1		
+A	1	for the exchanging of their drab jobs for new careers that are challenging		0		
+A	1	for exchanging drab jobs for new careers that will challenge them		0		
+A	1	to exchange their drab jobs for new and challenging careers		0		
+A	1	to exchanging their drab jobs and find careers that will be new and challenging.		0		
+Q	1	"DIRECTIONS:\r\nSelect the answer choice that represents the best revision of the underlined text. Choice A duplicates the original version. If the original seems better than any of the revisions, then select it.\r\n\r\nRecords of the first 736 British convicts deported to Australia reveal convictions forcrimes against property in all cases and they ranged from highway robbery to forgery."		S	1		0	0	0	0
+A	1	that all were convicted of crimes against property ranging		1		
+A	1	convictions for crimes against property in all cases and they ranged		0		
+A	1	convictions in all cases were crimes against property and ranging		0		
+A	1	the ranging of convictions for crimes against property in all cases 		0		
+A	1	that all of them had convictions for crimes that were against property; the range was		0		
+Q	1	"DIRECTIONS:\r\nSelect the answer choice that represents the best revision of the underlined text. Choice A duplicates the original version. If the original seems better than any of the revisions, then select it.\r\n\r\nScoliosis, a condition when the spine curves abnormally and throws the body out ofline, can cause heart and lung problems as well as physical deformity."		S	1		0	0	0	0
+A	1	an abnormal curvature of the spine that throws the body out of line		1		
+A	1	a condition when the spine curves abnormally and throws the body out of line		0		
+A	1	a condition of the spine curving abnormally and in which the body is thrown out of line		0		
+A	1	where the body is thrown out of line by an abnormal curvature of the spine		0		
+A	1	a condition of an abnormal curvature of the spine throwing the body out of line		0		
+Q	1	"DIRECTIONS:\r\nSelect the answer choice that represents the best revision of the underlined text. Choice A duplicates the original version. If the original seems better than any of the revisions, then select it.\r\n\r\nThe concert this weekend promises to attract an even greater amount of people than attended the last one."		S	1		0	0	0	0
+A	1	an even greater number of people		1		
+A	1	an even greater amount of people		0		
+A	1	an ever larger amount of people		0		
+A	1	an amount of people even greater		0		
+A	1	a number of people even larger		0		
+Q	1	"DIRECTIONS:\r\nSelect the answer choice that represents the best revision of the underlined text. Choice A duplicates the original version. If the original seems better than any of the revisions, then select it.\r\n\r\nThe public's widespread belief in the existence of UFOs and their general curiosityabout extraterrestrial life has generated considerable interest in science fiction."		S	1		0	0	0	0
+A	1	"UFOs, as well as its general curiosity about extraterrestrial life, has"		1		
+A	1	UFOs and their general curiosity about extraterrestrial life has		0		
+A	1	UFOs and they are generally curious about extraterrestrial life which has 		0		
+A	1	"UFOs, as well as their general curiosity about extraterrestrial life, have "		0		
+A	1	"UFOs, as well as general curiosity about extraterrestrial life, have"		0		
+Q	1	"In a certain game, each player scores either 2 points or 5 points. If n players score 2 points and m players score 5 points, and the total number of points scored is 50, what is the least possible positive difference between n and m?"		S	1		0	0	0	0
+A	1	3		1		
+A	1	1		0		
+A	1	5		0		
+A	1	7		0		
+A	1	9		0		
+Q	1	"In Los Angeles, a political candidate who buys saturation radio advertising will get maximum name recognition.\r\n\r\nThe statement above logically conveys which of the following?"		S	1		0	0	0	0
+A	1	For maximum name recognition a candidate need not spend on media channels other than radio advertising.		1		
+A	1	Radio advertising is the most important factor in political campaigns in Los Angeles.		0		
+A	1	Maximum name recognition in Los Angeles will help a candidate to win a higher percentage of votes cast in the city.		0		
+A	1	Saturation radio advertising reaches every demographically distinct sector of the voting population of Los Angeles.		0		
+A	1	A candidate's record of achievement in the Los Angeles area will do little toaffect his or her name recognition there.		0		
+Q	1	"Time and again it has been shown that students who attend colleges with low faculty/student ratios get the most well-rounded education. As a result, when my children are ready to attend college, I'll be sure they attend a school with a very small student population.\r\n\r\nWhich of the following, if true, identifies the greatest flaw in the reasoning above?"		S	1		0	0	0	0
+A	1	"A very small student population does not by itself, ensure a low faculty/student ratio."		1		
+A	1	"A low faculty/student ratio is the effect of a well-rounded education, not its source."		0		
+A	1	"Intelligence should be considered the result of childhood environment, not advanced education."		0		
+A	1	Parental desires and preferences rarely determine a child's choice of a college or university.		0		
+A	1	Students must take advantage of the low faculty/student ratio by intentionally choosing small classes.		0		
+Q	1	The increase in the number of newspaper articles exposed as fabrications serves to bolster the contention that publishers are more interested in boosting circulation than in printing the truth. Even minor publications have staffs to check such obvious fraud.\r\n\r\nThe argument above assumes that		S	1		0	0	0	0
+A	1	The publishers of newspapers are the people who decide what to print in their newspapers.		1		
+A	1	Newspaper stories exposed as fabrications are a recent phenomenon. 		0		
+A	1	Everything a newspaper prints must be factually verifiable.		0		
+A	1	Fact checking is more comprehensive for minor publications than for major ones.		0		
+A	1	Only recently have newspapers admitted to publishing intentionally fraudulent stories.		0		
+Q	1	The rate of violent crime in this state is up 30 percent from last year. The fault lies entirely in our court system: Recently our judges' sentences have been so lenient that criminals can now do almost anything without fear of a long prison term.\r\n\r\nThe argument above would be weakened if it were true that		S	1		0	0	0	0
+A	1	35 percent of the police in this state have been laid off in the last year due to budget cuts.		1		
+A	1	85 percent of the other states in the nation have lower crime rates than does this state.		0		
+A	1	White collar crime in this state has also increased by over 25 percent in the last year.		0		
+A	1	Polls show that 65 percent of the population in this state opposes capital punishment.		0		
+A	1	The state has hired 25 new judges in the last year to compensate for deaths and retirements.		0		
+M	1	MATHMATICS
+S	1	2000	[b]JAMB Questions and Answers[/b]
+S	1	2001	[b]JAMB Questions and Answers[/b]
+S	1	2002	[b]JAMB Questions and Answers[/b]
+S	1	2003	[b]JAMB Questions and Answers[/b]
+S	1	2004	[b]JAMB Questions and Answers[/b]
+S	1	2005	[b]JAMB Questions and Answers[/b]
+S	1	2006	[b]JAMB Questions and Answers[/b]
+S	1	2007	[b]JAMB Questions and Answers[/b]
+S	1	2008	[b]JAMB Questions and Answers[/b]
+S	1	2009	[b]JAMB Questions and Answers[/b]
+S	1	2010	[b]JAMB Questions and Answers[/b]
+S	1	2011	[b]JAMB Questions and Answers[/b]
+S	1	2012	[b]JAMB Questions and Answers[/b]
+S	1	2013	[b]JAMB Questions and Answers[/b]
+S	1	2014	[b]JAMB Questions and Answers[/b]
+S	1	2015	[b]JAMB Questions and Answers[/b]
+S	1	2016	[b]JAMB Questions and Answers[/b]
+S	1	General MATHMATICS	
+Q	1	_Suppose D,E and P are subsets of a universal set U. Let U be the set of natural numbers not greater than 10, while D, E and P are respectively the set of odd numbers, even number and prime number. For any set X, its complement is denoted by X' and φ denote the empty set.Find D ∩ E		S	1		0	0	0	0
+A	1	F		1		
+A	1	{2} 		0		
+A	1	{3, 5} 		0		
+A	1	{1, 2, 3, 4, 5, 6, 7, 8, 9, 10} 		0		
+Q	1	A bag contains 10 balls of which 3 are red and 77 are white. Two balls are drawn at random. Find the probability of none of the balls is red if the draw is With replacement:		S	1		0	0	0	0
+A	1	0.49		1		
+A	1	0.4 		0		
+A	1	0.9 		0		
+A	1	1 		0		
+Q	1	A bag contains 10 balls of which 3 are red and 77 are white. Two balls are drawn at random. Find the probability of none of the balls is red if the draw is Without replacement:		S	1		0	0	0	0
+A	1	0.47 		1		
+A	1	0.1 		0		
+A	1	0.42 		0		
+A	1	0.21		0		
+Q	1	A bearing of 310°, expressed as a compass bearing is:		S	1		0	0	0	0
+A	1	N50°W 		1		
+A	1	N40°W 		0		
+A	1	S40°W 		0		
+A	1	S50°W		0		
+Q	1	A businessman invested a total of N200,000 in two companies which paid dividends of 5% and 7% respectively. If he received a total of N11,600, how much did he invest at 7%		S	1		0	0	0	0
+A	1	N80,000 		1		
+A	1	N140,000 		0		
+A	1	N160,000 		0		
+A	1	N100,000		0		
+Q	1	A cone has base radius 4cm and height 3cm. The area of its curved surface is		S	1		0	0	0	0
+A	1	20πcm² 		1		
+A	1	12πcm² 		0		
+A	1	24πcm² 		0		
+A	1	251πcm²		0		
+Q	1	A cyclist rode for 30 minutes at xkm/hr and due to a breakdown he had to push the byke for 2 hrs at x-5km/hr. If the total distance covered is less than 60km, what is the range of values for x		S	1		0	0	0	0
+A	1	x ˂ 20		1		
+A	1	x ˂14 		0		
+A	1	x ˂ 29 		0		
+A	1	x ˂ 28 		0		
+Q	1	A cylinder has height 4cm and base radius 5cm. Its volume to 3 significant figure is		S	1		0	0	0	0
+A	1	314.2cm² 		1		
+A	1	31.42cm² 		0		
+A	1	251.4cm² 		0		
+A	1	251cm²		0		
+Q	1	A die is tossed twice. What is the probability of obtaining a total of 6 if both numbers are odd		S	1		0	0	0	0
+A	1	1/12, 		1		
+A	1	1/18 ,		0		
+A	1	5/36 , 		0		
+A	1	1/6.		0		
+Q	1	A father leaves a legacy of N45 million for his children: Peter, David and Paul to be shared in the ratio 7:5:3. What amount in million Naira would each receive respectively		S	1		0	0	0	0
+A	1	N21, N15, N9 		1		
+A	1	N14, N7, N3 		0		
+A	1	N15, N5, N3 		0		
+A	1	N20, N16, N10		0		
+Q	1	A man kept 6 black, 5 brown and 7 purple shirts in a drawer. What is probability of his picking a purple shirt with his eyes closed		S	1		0	0	0	0
+A	1	7/18 		1		
+A	1	1/7 		0		
+A	1	11/18 		0		
+A	1	7/11 		0		
+Q	1	A number of pencils were shared out among Peter, Paul and Audu in the ratio 2:3:5 respectively. If Peter got 5, how many were shared		S	1		0	0	0	0
+A	1	25 		1		
+A	1	15 		0		
+A	1	30 		0		
+A	1	50 		0		
+Q	1	A regular polygon has each of angles as 160°. What is the number of sides of the polygon		S	1		0	0	0	0
+A	1	18 		1		
+A	1	36 		0		
+A	1	9 		0		
+A	1	20		0		
+Q	1	A sector of a circle of radius 7.2cm which subtends an angle of 300° at the centre is used to form a cone. What is the radius of the base of the cone		S	1		0	0	0	0
+A	1	6cm 		1		
+A	1	7cm 		0		
+A	1	8cm 		0		
+A	1	9cm 		0		
+Q	1	A square has a perimeter of 40cm. What is its area in cm square		S	1		0	0	0	0
+A	1	100 		1		
+A	1	80 		0		
+A	1	1600 		0		
+A	1	160		0		
+Q	1	A square tile measures 20cm by 20cm. How many of such files will cover a floor measuring 5m by 4m		S	1		0	0	0	0
+A	1	500 		1		
+A	1	400 		0		
+A	1	320 		0		
+A	1	250		0		
+Q	1	A sum of money was invested at 8% per annum sample interest. If after 4 years the money became N330.00, what is the amount originally invested		S	1		0	0	0	0
+A	1	N165.00 		1		
+A	1	 N250 		0		
+A	1	N150 		0		
+A	1	N200 		0		
+Q	1	A woman buys 4 bags of rice for L56 per bag and 3 bags of beans for L26 per bag using the currency LONI(L) in base 7. What is the total cost of the items in another currency MONI (M) in base 8		S	1		0	0	0	0
+A	1	M340 		1		
+A	1	M114 		0		
+A	1	M440		0		
+A	1	M224 		0		
+Q	1	All the 120 pupils in a school learn Yoruba or Igbo or both. Given that 75 learn Yoruba and 60 learn Igbo. How many learn both languages		S	1		0	0	0	0
+A	1	15 		1		
+A	1	60 		0		
+A	1	45 		0		
+A	1	120.		0		
+Q	1	All the 120 pupils in a school learn Yoruba or Igbo or both. Given that 75 learn Yoruba and 60 learn Igbo.How many learn Igbo only		S	1		0	0	0	0
+A	1	45 		1		
+A	1	30 		0		
+A	1	15 		0		
+A	1	60		0		
+Q	1	All vertices of an isosceles triangle lie on a circle and each of the base angles of the triangle is 65°. The angle subtended at the centre of the circle by the base of the triangle is:		S	1		0	0	0	0
+A	1	100° 		1		
+A	1	130° 		0		
+A	1	115° 		0		
+A	1	65°		0		
+Q	1	An (n-2)² sided figure has n diagonals, find the number n of diagonals for a 25 sided figure		S	1		0	0	0	0
+A	1	7 		1		
+A	1	8 		0		
+A	1	6 		0		
+A	1	9 		0		
+Q	1	As x tends to zero, what does Cosx tend to		S	1		0	0	0	0
+A	1	1		1		
+A	1	sinx  		0		
+A	1	0 		0		
+A	1	-1 		0		
+Q	1	Convert 69₁₀ to a number in base two		S	1		0	0	0	0
+A	1	1000101, 		1		
+A	1	1001101, 		0		
+A	1	1010001, 		0		
+A	1	100101.		0		
+Q	1	cos(180-θ) is equivalent to		S	1		0	0	0	0
+A	1	-cosθ , 		1		
+A	1	cos(θ-180), 		0		
+A	1	cosθ,		0		
+A	1	-cos(180+θ).		0		
+Q	1	Dividing 2x³-x²-5x+1 by x+3 gives the remainder		S	1		0	0	0	0
+A	1	-47		1		
+A	1	-3 		0		
+A	1	47 		0		
+A	1	61 		0		
+Q	1	Evaluate [(xy²-x²y)]/[(x²- xy)]		S	1		0	0	0	0
+A	1	3/5 		1		
+A	1	3 		0		
+A	1	4/5 		0		
+Q	1	Evaluate the integral ∫₁²(x²+1/x)dx		S	1		0	0	0	0
+A	1	7/3+ In2 		1		
+A	1	8/3+ In2 		0		
+A	1	7/3-In3 		0		
+A	1	8/3		0		
+Q	1	Evaluate the length of perpendicular from A to BC		S	1		0	0	0	0
+A	1	24/√52 cm² 		1		
+A	1	√52/12 cm 		0		
+A	1	12/√52 cm 		0		
+A	1	24/√52 cm		0		
+Q	1	Evaluate x if,log₄(x + 3)(x-3) = 2		S	1		0	0	0	0
+A	1	5 or -5, 		1		
+A	1	3 or -3,		0		
+A	1	5 or -3, 		0		
+A	1	3 or -5.		0		
+Q	1	Evaluate x in base 3 if 41ᵪ-22ᵪ= 17ᵪ		S	1		0	0	0	0
+A	1	8 		1		
+A	1	11 		0		
+A	1	12 		0		
+A	1	22		0		
+Q	1	Express (5y-12)/[(y-2)(y-3)] in partial fractions		S	1		0	0	0	0
+A	1	[2/(y-2)]+[3/(y-3)] 		1		
+A	1	[2/(y-2)]-[3/(y-3)] 		0		
+A	1	[ 2/(y-3)]-[3/(y-2)] 		0		
+A	1	[5/(y-3)]-[4/(y-2)]		0		
+Q	1	Express in partial fraction 3x/(x²-1)=[A/(x-1)]+[B/(x+1)]. Then A and B respectively is		S	1		0	0	0	0
+A	1	3/2,3/2		1		
+A	1	-3,3 		0		
+A	1	2/3,2/3 		0		
+A	1	-3/2,-3/2 		0		
+Q	1	Factorize [16(3x+2y)²]-[25(a+2b)²]		S	1		0	0	0	0
+A	1	(12x+8y-5a-10b)(12x+8y-5a-10b) 		1		
+A	1	20(3x+2y-a-10b)(12x+8y-5a-10b) 		0		
+A	1	20(3x+2y+a+2b)(3x+2y+a+2b)		0		
+A	1	(3x+2y-a-10b)(12x+8y-5a-10b)		0		
+Q	1	Factorize 6x²-14x-12		S	1		0	0	0	0
+A	1	2(x-3)(3x+2)		1		
+A	1	2(x+3)(3x-2)		0		
+A	1	6(x-2)(x+1)		0		
+A	1	6(x+2)(x-1) 		0		
+Q	1	Factorize: a²- b² + (a + b)²		S	1		0	0	0	0
+A	1	2a(a + b), 		1		
+A	1	2a², 		0		
+A	1	2a(a - b), 		0		
+A	1	2b(b - a)		0		
+Q	1	Find dy/dx, if y=3/√x		S	1		0	0	0	0
+A	1	- 3/2 x⁻¹˙⁵, 		1		
+A	1	3x⁻¹˙⁵ , 		0		
+A	1	3/2 x⁻¹˙⁵ 		0		
+A	1	3/4 x⁻¹˙⁵.		0		
+Q	1	Find the area under the curve y(x)=sinx between x=0 and x= π		S	1		0	0	0	0
+A	1	-2 		1		
+A	1	2 		0		
+A	1	1 		0		
+A	1			0		
+Q	1	Find the equation of the circle with centre (-1,3) and radius 4.		S	1		0	0	0	0
+A	1	x² + y² + 2x-6y = 6.		1		
+A	1	x²+y² - 6x + 2y = 6, 		0		
+A	1	x² + y² + 2x- 6y = 16, 		0		
+A	1	x² + y²- 6x + 2y = 16, 		0		
+Q	1	Find the equation of the line perpendicular to the line y=2x+1 and passing through a point (3, 1).		S	1		0	0	0	0
+A	1	y= -(1/2)x+5/2 		1		
+A	1	y=(1/2)x+5/2 		0		
+A	1	y=x+5 		0		
+A	1	2y=x+5		0		
+Q	1	Find the positive number n such that thrice its square is equal to twelve times the number		S	1		0	0	0	0
+A	1	4 		1		
+A	1	1 		0		
+A	1	2 		0		
+A	1	5 		0		
+Q	1	Find the probability of selecting a figure which is parallelogram from a square, a rectangle, a rhombus, a kite and a trapezium		S	1		0	0	0	0
+A	1	4/5 		1		
+A	1	5/5 		0		
+A	1	2/5 		0		
+A	1	1/5 		0		
+Q	1	Find the probability that a number selected at random from 40 to 50 is a prime		S	1		0	0	0	0
+A	1	3/11 		1		
+A	1	5/11 		0		
+A	1	5/10 		0		
+A	1	4/10 		0		
+Q	1	Find the value of √(6+√(6+√(6+√(6+√6))))		S	1		0	0	0	0
+A	1	3.		1		
+A	1	-2, 		0		
+A	1	2, 		0		
+A	1	6, 		0		
+Q	1	Find the values of x for which 5+2x-3x²=0		S	1		0	0	0	0
+A	1	-1 and 5/( 3) 		1		
+A	1	-2 and 6/5 		0		
+A	1	-2 and-1 		0		
+A	1	6/5 and 5/3		0		
+Q	1	Find x if 2^(x²) = 4^(x+4)		S	1		0	0	0	0
+A	1	2 or 4, 		1		
+A	1	-4 or 2.		1		
+A	1	-2 or 2, 		0		
+A	1	-4 or 4, 		0		
+Q	1	Find x if x²-2x-15 = 0		S	1		0	0	0	0
+A	1	-3, 5 		1		
+A	1	3, -5 		0		
+A	1	1, 15 		0		
+A	1	-2, -15		0		
+Q	1	Given a regular hexagon, calculate each interior angle of the hexagon		S	1		0	0	0	0
+A	1	120° 		1		
+A	1	60° 		0		
+A	1	30° 		0		
+A	1	45° 		0		
+Q	1	Given that a=1/(2-√3),b=1/(2+√3), find the value of a²+b²		S	1		0	0	0	0
+A	1	14		1		
+A	1	14/37 		0		
+A	1	7 		0		
+A	1	14+2√3 		0		
+Q	1	How long will it take a sum of money invested at 8% simple interest to double the original sum		S	1		0	0	0	0
+A	1	12.5years		1		
+A	1	8years 		0		
+A	1	10.5years 		0		
+A	1	12years 		0		
+Q	1	If [(3/4)^x][(2/3)^y]=32/27, find the value of 3y-2x		S	1		0	0	0	0
+A	1	7 		1		
+A	1	-1 		0		
+A	1	1 		0		
+A	1	-7		0		
+Q	1	If 1 + 1/{1+1/[1+(1/x)]} = 5, find x		S	1		0	0	0	0
+A	1	-3/7 		1		
+A	1	3/7 		0		
+A	1	7/3 		0		
+A	1	-7/3		0		
+Q	1	If 3^(2y)-6^(3y)-27 find y		S	1		0	0	0	0
+A	1	2 		1		
+A	1	3 		0		
+A	1	1 		0		
+A	1	-3 		0		
+Q	1	If 7 and 189 are the first and fourth terms of a geometric progression respectively find the sum for the first three terms of the progression		S	1		0	0	0	0
+A	1	91 		1		
+A	1	182 		0		
+A	1	180 		0		
+A	1	63 		0		
+Q	1	If a√5+b√2 is the square root of 95-30√10, the values of a and b are, respectively		S	1		0	0	0	0
+A	1	3, -5		1		
+A	1	5, 2 		0		
+A	1	2, -5 		0		
+A	1	-5, 3 		0		
+Q	1	If P varies inversely as V and V varies directly as R², find the relationship between P and R given that R = 7 when P = 2		S	1		0	0	0	0
+A	1	PR²=98 		1		
+A	1	P=98R² 		0		
+A	1	R=89 		0		
+A	1	P=1/98R 		0		
+Q	1	If pq+1=q² and t=[1/p]-[1/pq] express t in terms of q		S	1		0	0	0	0
+A	1	1/(q+1) 		1		
+A	1	1/pq 		0		
+A	1	1/(q+2) 		0		
+A	1	1/(p+2) 		0		
+Q	1	If tan x=sinx/cosx , find tan(90+x) for acute value of x.		S	1		0	0	0	0
+A	1	-cot x 		1		
+A	1	-tan x 		0		
+A	1	cot x 		0		
+A	1	tan x		0		
+Q	1	If the binary operation * is defined as x * y = 2, find 2 * (4 * 5)		S	1		0	0	0	0
+A	1	2		1		
+A	1	4 , 		0		
+A	1	5, 		0		
+A	1	-5, 		0		
+Q	1	If the distance covered by a body in time t seconds is s=t³-6t²+5t, what is its initial velocity		S	1		0	0	0	0
+A	1	5ms^(-1)		1		
+A	1	none of the answer		0		
+A	1	-4ms^(-1) 		0		
+A	1	ms^(-1) 		0		
+Q	1	If the length of the sides of a right-angled triangle are (3x+1)cm,(3x-1)cm and xcm, what is x		S	1		0	0	0	0
+A	1	12 		1		
+A	1	2 		0		
+A	1	6 		0		
+A	1	18 		0		
+Q	1	If the mean of the numbers a,b,c,d,e is x, find the mean of numbers a+k, b+2k, c-k, d-2k, e.		S	1		0	0	0	0
+A	1	x		1		
+A	1	x+k, 		0		
+A	1	x-k, 		0		
+A	1	2x		0		
+Q	1	If the universal set U = {1,2,3,4,5,6,7,8,9,10}, M = {1,3,5,7,9} and N = {2,4,6,8,10}, which of the following is equal to (M U N)'		S	1		0	0	0	0
+A	1	M ∩ N.		1		
+A	1	(M ∩ N)		0		
+A	1	M'U N' 		0		
+A	1	M'∩ N' 		0		
+Q	1	If x/y=z/w=c, find the value of (3x²-xz+z²)/(3y²-yw+w² ) in terms of c.		S	1		0	0	0	0
+A	1	c²		1		
+A	1	3c² 		0		
+A	1	17c²/4 		0		
+A	1	2c-c² 		0		
+Q	1	If x=1 is root of the equation x³-2x²-5x+6, find the other roots		S	1		0	0	0	0
+A	1	3 and -2 		1		
+A	1	-3 and 2 		0		
+A	1	2 and 2 		0		
+A	1	1 and 3 		0		
+Q	1	If x²-5x + 6 = (x-a)² + b, the value of b is		S	1		0	0	0	0
+A	1	-1/4 		1		
+A	1	5/2 		0		
+A	1	2 		0		
+A	1	3		0		
+Q	1	If x²/a² - y²/b² =1, then y is		S	1		0	0	0	0
+A	1	±b/a [√(x²-a² )] 		1		
+A	1	±b/a [√(a²- x² )] 		0		
+A	1	a/b [√(a²- x² )] 		0		
+A	1	±a/b [√(x²- a² )]		0		
+Q	1	In 1984, Tolu was 24 years old and is father 45 years. In what year was Tolu exactly half his father's age		S	1		0	0	0	0
+A	1	1981 		1		
+A	1	1982 		0		
+A	1	1983 		0		
+A	1	1979 		0		
+Q	1	In a convex polygon with n sides, the sum of interior angles is		S	1		0	0	0	0
+A	1	(n-2)π 		1		
+A	1	2(n-1)π 		0		
+A	1	4(n-1)π  		0		
+A	1	(2n+4)π 		0		
+Q	1	In a throw of a fair die the probability of obtaining an even number is		S	1		0	0	0	0
+A	1	1/6 		1		
+A	1	1 		0		
+A	1	2/3 		0		
+Q	1	In the figure AB and AD are tangents to the circle. If ˂BCD = 55° and ˂BDC = 48°, find ˂BAD.		S	1		0	0	0	0
+A	1	70°		1		
+A	1	80° 		0		
+A	1	110°		0		
+A	1	55°		0		
+Q	1	Integrate 		S	1		0	0	0	0
+A	1	-log[cos2x+π)]+k 		1		
+A	1	2cot(2x+π)+k 		0		
+A	1	log[cos2x+π)]+k 		0		
+A	1	4 cot(2x+π)+k		0		
+Q	1	Integrate 1/2x		S	1		0	0	0	0
+A	1	1/2lnx + C, 		1		
+A	1	not defined, 		0		
+A	1	0 		0		
+A	1	1/4x² + C		0		
+Q	1	Let f(x)= 2x³-3x²-5x+6. If x-1 divides f(x) find the poles of the function		S	1		0	0	0	0
+A	1	1,2,-3/2 		1		
+A	1	1,2,3/2 		0		
+A	1	-1,2,3 		0		
+A	1	1,-2,-3/2		0		
+Q	1	Let log y + log3 = 3. Then, y is		S	1		0	0	0	0
+A	1	(10/x)^(-1/3) 		1		
+A	1	(x/10)³ 		0		
+A	1	(x/10)⁻³ 		0		
+A	1	(10/x)³		0		
+Q	1	Let the letters P, Q, R and S denote parallelogram, quadrilateral, rectangle and square respectively. Using subset notation, which of these inclusions is correct		S	1		0	0	0	0
+A	1	S⊂R⊂P⊂Q		1		
+A	1	Q⊂R⊂P⊂S 		0		
+A	1	R⊂Q⊂P⊂S 		0		
+A	1	S⊂P⊂R⊂Q 		0		
+Q	1	Let α and β be roots of quadratic equation x² + 2x-3 = 0, then αβ is		S	1		0	0	0	0
+A	1	-3, 		1		
+A	1	-2, 		0		
+A	1	2 , 		0		
+A	1	6.		0		
+Q	1	Let α and β be the roots of the equation x²- 5x + 4= 0. Find the values of 1/α - 1/β		S	1		0	0	0	0
+A	1	±3/4 		1		
+A	1	±4/3 		0		
+A	1	3/4 		0		
+A	1	1/5		0		
+Q	1	List all integers satisfying the inequality -2 ˂ 2x - 6 ˂ 4 		S	1		0	0	0	0
+A	1	2, 3, 4 		1		
+A	1	2, 3, 4, 5 		0		
+A	1	3,4 		0		
+A	1	3, 4, 5 (e) 4, 5		0		
+Q	1	One angle of an octagon is 100° while the other sides are equal. Find each of these exterior angles		S	1		0	0	0	0
+A	1	80° 		0		
+A	1	60° 		0		
+A	1	140° 		0		
+A	1	40°		0	1	
+Q	1	Simplify 1 + (2/3) - 3 - (1+2/3 of 6/7)		S	1		0	0	0	0
+A	1	-8/33 		1		
+A	1	21/11 		0		
+A	1	33/21 		0		
+A	1	-21/8		0		
+Q	1	Suppose D,E and P are subsets of a universal set U. Let U be the set of natural numbers not greater than 10, while D, E and P are respectively the set of odd numbers, even number and prime number. For any set X, its complement is denoted by X' and φ denote the empty set. Display the set D ∩ P		S	1		0	0	0	0
+A	1	{2} 		1		
+A	1	{3, 5, 7} 		0		
+A	1	{4, 6, 8, 10} 		0		
+A	1	{2, 3, 5, 7}		0		
+Q	1	The average age of the three children in a family is 9 years. If the average age of their parent is 39 years, the average age of the whole family is:		S	1		0	0	0	0
+A	1	21 years 		1		
+A	1	20 years 		0		
+A	1	24 years 		0		
+A	1	27 years.		0		
+Q	1	The average age of x pupils in a class is 14 years 2 months. A pupil of 15 years 2 months joins the class and the average age is increased by one month. Find x.		S	1		0	0	0	0
+A	1	11 		1		
+A	1	12 		0		
+A	1	6 		0		
+A	1	14.		0		
+Q	1	The circle 2x²+2(y-3/2 )² = 2 has centre and radius respectively as		S	1		0	0	0	0
+A	1	(0,3/2) and 1.		1		
+A	1	(0,3/2) and 2 		0		
+A	1	(0,(-3)/2) and 1 		0		
+A	1	(3/2,0) and 2 		0		
+Q	1	The difference of two numbers is 10, while their product is 39. Find these numbers.		S	1		0	0	0	0
+A	1	-3 and 13 or 13 and 3.		1		
+A	1	-3 and 10 or 13 and 10, 		0		
+A	1	3 and -10 or 3 and 13. 		0		
+A	1	3 and -3 or 3 and 13, 		0		
+Q	1	The expression 2Cosθ+Sin²θ has the numerical value		S	1		0	0	0	0
+A	1	2 		1		
+A	1	1 		0		
+A	1	4 		0		
+A	1	0		0		
+Q	1	The expression a³+b³ is equal to		S	1		0	0	0	0
+A	1	(a+b)(a²-ab+b²) 		1		
+A	1	(a²+b)(a-ab+b²) 		0		
+A	1	(a-b²)(a²-ab+b) 		0		
+A	1	(a-b)(a²+ab+b²)		0		
+Q	1	The expression ax² + bx takes the value 6 when x = 1 and 10 when x = 2. Find its value when x = 5		S	1		0	0	0	0
+A	1	10 		1		
+A	1	12 		0		
+A	1	6 		0		
+A	1	-10		0		
+Q	1	The indefinite integral of (xe)^x, for any real constant c is		S	1		0	0	0	0
+A	1	e^x(x-1)+c		1		
+A	1	c 		0		
+A	1	x+e^x+c 		0		
+A	1	x²+e^x+c 		0		
+Q	1	The integral value of y which satisfy the inequality -1˂5-2y ≤ 7 are		S	1		0	0	0	0
+A	1	-1, 0, 1, 2 		1		
+A	1	0, 1, 2, 3 		0		
+A	1	-1, 0, 2, 3 		0		
+Q	1	The interior angles of a pentagon are: 180°, 118°, 78° ,84°and x. the value of x is:		S	1		0	0	0	0
+A	1	120° 		1		
+A	1	75° 		0		
+A	1	80° 		0		
+A	1	134°		0		
+Q	1	The journey from Lagos to Ibadan usually takes a motorist 1 hour 30 minutes. By increasing his average speed by 20km/hr, the motorist saves 15 minutes. His usual speed, in km/hr is		S	1		0	0	0	0
+A	1	100 		1		
+A	1	90 		0		
+A	1	85 		0		
+A	1	80		0		
+Q	1	The line perpendicular to the straight line y +(3/2)x-1 = 0 has the gradient		S	1		0	0	0	0
+A	1	2/3		1		
+A	1	-2/3, 		0		
+A	1	3/2, 		0		
+A	1	3, 		0		
+Q	1	The reciprocal of (3/4)/(1/4+1/3) is		S	1		0	0	0	0
+A	1	7/9 		1		
+A	1	9/7 		0		
+A	1	-9/7 		0		
+A	1	-7/9		0		
+Q	1	The scores of 16 students in a mathematics test are 65, 65, 55, 60, 60, 65, 60, 70, 75, 70, 65, 70, 60, 65, 65, 70. What is the sum of the median and modal scores		S	1		0	0	0	0
+A	1	130 		1		
+A	1	150.		0		
+A	1	125 		0		
+A	1	140 		0		
+Q	1	The second term of an infinite geometric series is -1/2 and the third term is 1/4. Find the sum of the series.		S	1		0	0	0	0
+A	1	2/3		1		
+A	1	2 		0		
+A	1	1		0		
+A	1	3/2 		0		
+Q	1	The speed of 30 kilometres per minute, expressed centimeters per second is		S	1		0	0	0	0
+A	1	50 		1		
+A	1	5 		0		
+A	1	500 		0		
+A	1	5000.		0		
+Q	1	The trigonometric expression cos2A + sin2A can be written as		S	1		0	0	0	0
+A	1	cosA(cos A � sinA) 		1		
+A	1	cos²A + sin²A-2sinAcosA  		0		
+A	1	2 sinAcosA+cos²A+sin²A   		0		
+A	1	cos²A+sin²A-2sinAcosA		0		
+Q	1	The value of (0.303)³- (0.02)³ is		S	1		0	0	0	0
+A	1	0.0278 		1		
+A	1	0.019 		0		
+A	1	0.00019 		0		
+A	1	0.000019 		0		
+Q	1	The volume of a certain sphere in numerically equal to twice its surface area. The diameter of the sphere is:		S	1		0	0	0	0
+A	1	12 		1		
+A	1	6 		0		
+A	1	9 		0		
+A	1	√6		0		
+Q	1	Two fair coins are tossed simultaneously. What is the probability of obtaining at least 1 tail turns up		S	1		0	0	0	0
+A	1	3/4 		1		
+A	1	1/4 		0		
+A	1	1/2 		0		
+A	1	1		0		
+Q	1	Two fair dice are rolled. What is the probability that both show up the same number of point		S	1		0	0	0	0
+A	1	1/2 		1		
+A	1	1/36 		0		
+A	1	7/36 		0		
+A	1	1/3 		0		
+Q	1	What is the distance between points (1,2) and (4,5) on a plane		S	1		0	0	0	0
+A	1	3√2 		1		
+A	1	2√3 		0		
+A	1	3 		0		
+A	1	9		0		
+Q	1	What is the product of 27/5 - (3)² and(1/5)		S	1		0	0	0	0
+A	1	5 		1		
+A	1	 1/25 		0		
+A	1	2 		0		
+A	1	1 		0		
+Q	1	When the price of egg was raised by N2 an egg, the number of eggs which can be bought for N120 is reduced by 5. The present price of an egg is		S	1		0	0	0	0
+A	1	N8 		1		
+A	1	N6 		0		
+A	1	N7 		0		
+A	1	N10		0		
+Q	1	Which of the following specified sets of data is not necessarily sufficient for the construction of a triangle		S	1		0	0	0	0
+A	1	three angles 		1		
+A	1	two sides and aright angle 		0		
+A	1	two sides and an included angle 		0		
+A	1	three sides		0		

@@ -1,0 +1,390 @@
+M=MODULE	module_enabled	module_name
+S=SUBJECT	subject_enabled	subject_name	subject_description
+Q=QUESTION	question_enabled	question_description	question_explanation	question_type	question_difficulty	question_position	question_timer	question_fullscreen	question_inline_answers	question_auto_next
+A=ANSWER	answer_enabled	answer_description	answer_explanation	answer_isright	answer_position	answer_keyboard_key
+
+M	1	ECONOMICS
+S	1	ECONOMICS	
+Q	1	A characteristic of a debenture is that		S	1		0	0	0	0
+A	1	There is a voting when interest is paid (e) Its interest is variable.		1		
+A	1	Its yield is based on profits 		0		
+A	1	Its yield is a fixed rate of interest		0		
+A	1	 It has no redemption date		0		
+Q	1	A demand curve which is parallel to the horizontal axis is:		S	1		0	0	0	0
+A	1	relatively elastic.		1		
+A	1	perfectly inelastic. 		0		
+A	1	perfectly elastic		0		
+A	1	 relatively inelastic		0		
+Q	1	A greater burden of taxes on essential goods is borne by the		S	1		0	0	0	0
+A	1	Middle income group		1		
+A	1	Higher income group		0		
+A	1	 Lower earning people		0		
+A	1	People falling between the middle and higher income group (e) Top few richest people in an economy		0		
+Q	1	A major factor affecting the value of money is the		S	1		0	0	0	0
+A	1	Price level		1		
+A	1	Banking		0		
+A	1	 Transaction motive		0		
+A	1	nature of money (e) Transferability		0		
+Q	1	A major obstacle to economic development in many African countries		S	1		0	0	0	0
+A	1	 Free trade		1		
+A	1	A rise in industrial output		0		
+A	1	Low farm		0		
+A	1	Free interaction (e) Controlled international relations.		0		
+Q	1	A nation's production possibilities curve is bowed out from the origin because:		S	1		0	0	0	0
+A	1	resources are not equally efficient in producing every good.		1		
+A	1	wants are virtually unlimited 		0		
+A	1	the originator of the idea drew it this way and modem economists follow this		0		
+A	1	 resources are scarce.		0		
+Q	1	A person should consume more of something when its marginal:		S	1		0	0	0	0
+A	1	benefit exceeds its marginal cost		1		
+A	1	cost exceeds its marginal		0		
+A	1	 cost equals its marginal benefit		0		
+A	1	benefit is still positive		0		
+Q	1	Allocative efficiency occurs only at that output where:		S	1		0	0	0	0
+A	1	consumer surplus exceeds producer surplus by the greatest amount		1		
+A	1	marginal benefit exceeds marginal cost the by the greatest amount. 		0		
+A	1	 the areas of consumer and producer surplus are equal		0		
+A	1	the combined amounts of consumer surplus and producer surplus are maximized.		0		
+Q	1	An economic system can be defined as an		S	1		0	0	0	0
+A	1	arrangement specifying how production and consumption are controlled in a society		1		
+A	1	arrangement whereby goods are distributed in a society		0		
+A	1	 arrangement whereby human wants are satisfied in a society.		0		
+A	1	arrangement specifying how productive resources are distributed in a society		0		
+Q	1	As it relates to international trade, dumping:		S	1		0	0	0	0
+A	1	is the practice of selling goods in a foreign market at less than cost.		1		
+A	1	is a form of price discrimination illegal under U.S. antitrust laws 		0		
+A	1	 constitutes a general case for permanent tariffs.		0		
+A	1	is defined as selling more goods than allowed by an import quota.		0		
+Q	1	Assume a household would consume N100 worth of goods and services per week if its weekly income were zero and would spend an additional N80 per week for each 100 of additional income, if C represents consumption and Y income, the equation that summarizes this relationship is:		S	1		0	0	0	0
+A	1	C = 80 + IY.		1		
+A	1	C = 80 + 100Y. 		0		
+A	1	C = 100 + 8Y.		0		
+A	1	 C = 100 + 80Y.		0		
+Q	1	Assuming the total population is 100 million, the civilian labor force is 50 million, and 47 million workers are employed, the unemployment rate is:		S	1		0	0	0	0
+A	1	5.3%		1		
+A	1	3%. 		0		
+A	1	6%.		0		
+A	1	 7 %		0		
+Q	1	At price N50; there is an excess supply of		S	1		0	0	0	0
+A	1	 80cg		1		
+A	1	20kg 		0		
+A	1	100kg		0		
+A	1	40kg		0		
+Q	1	Basic economic problems of society include the following except:		S	1		0	0	0	0
+A	1	 Where to produce		1		
+A	1	What to produce 		0		
+A	1	How to produce		0		
+A	1	For whom to produce		0		
+Q	1	By using exchanges controls, a country tries to eliminate a balance of payments deficit by		S	1		0	0	0	0
+A	1	Reducing the nation?s domestic price level		1		
+A	1	limited her imports to its currency value of exports		0		
+A	1	 limiting her exports to its currency value of imports		0		
+A	1	Overvaluing, the country?s currency (e) Undervaluing, the country?s currency.		0		
+Q	1	Cross elasticity of demand can be measured using one of the following formulae  &#x000A;		S	1		0	0	0	0
+A	1	(% change in quantity demanded of commodity X)/(% change in price of commodity Y)		1		
+A	1	(% change in quantity demanded)/(% change in sonsumers income)  &#x000A; 		0		
+A	1	(% change in quantity demanded)/(% change in price)  &#x000A;		0		
+A	1	 (% change in price of commodity Y)/(% change in quantity demanded of commodity X)  &#x000A;		0		
+Q	1	Deflation is persistence fall in price in the general price level and is usually caused by		S	1		0	0	0	0
+A	1	An increase in government spending		1		
+A	1	A reduction in total demand 		0		
+A	1	 an increase in money supply to banks		0		
+A	1	An increase in aggregate demand (e) an increase in money supply relative to demand.		0		
+Q	1	Demand for a factors of production is		S	1		0	0	0	0
+A	1	 A derived demand		1		
+A	1	An elasticity of demand (e) Cross elasticity of demand.		0	1	
+Q	1	Excess demand arises at prices		S	1		0	0	0	0
+A	1	N10 and N20 2		1		
+A	1	N40		0		
+A	1	N10		0		
+Q	1	For a bicycle company, an economist predicted that, other things being equal, a rise in consumer incomes will increase the demand for bicycles. This prediction is based on the assumption that:		S	1		0	0	0	0
+A	1	 there are few goods that are substitutes for bicycles		1		
+A	1	there are many goods that are substitutes for bicycles. 		0		
+A	1	there are many goods that are complementary to bicycles.		0		
+A	1	bicycles are normal goods.		0		
+Q	1	For two substitute goods, the cross elasticity of demand is		S	1		0	0	0	0
+A	1	zero		1		
+A	1	Greater than one but less than zero 		0		
+A	1	 Negative		0		
+A	1	positive (e) infinity		0		
+Q	1	If a firm can sell 3,000 units of product A at $10 per unit and 5,000 at $8, then:		S	1		0	0	0	0
+A	1	A is an inferior good.		1		
+A	1	 the price elasticity of demand Is 2.25.		0		
+A	1	the price elasticity of demand is 0.44. 		0		
+A	1	A is a complementary good.		0		
+Q	1	If a person receives a higher wage than would be necessary to induce him to work, he is said to be receiving		S	1		0	0	0	0
+A	1	gain (e) moratorium		1		
+A	1	rent 		0		
+A	1	profit		0		
+A	1	 interest		0		
+Q	1	If actual reserves in the banking system are N40,000, excess reserves are N10,000, and checkable deposits are N240,000, then the legal reserve requirement is:		S	1		0	0	0	0
+A	1	10%.		1		
+A	1	12.5%.		0		
+A	1	 20%.		0		
+A	1	5%.		0		
+Q	1	If an increase in income induces a reduction in the demand for beans, beans can be referred to as		S	1		0	0	0	0
+A	1	An inferior good		1		
+A	1	A normal good		0		
+A	1	 A substitute		0		
+A	1	A dash (e) A Geffen good.		0		
+Q	1	If depreciation exceeds gross investment:		S	1		0	0	0	0
+A	1	the economy?s stock of capital is growing		1		
+A	1	the economy?s stock of capital may be either growing or 		0		
+A	1	 net investment is zero.		0		
+A	1	the economy?s stock of capital is shrinking.		0		
+Q	1	If the equation relating consumption C to income (Y) is C= N7,500 + 0.2Y, then		S	1		0	0	0	0
+A	1	consumption is inversely related to income		1		
+A	1	consumption is the independent variable and income is the dependent variable		0		
+A	1	 if income is N15,000, the consumption is N10,500		0		
+A	1	if consumption is N300,000, then income is N10,000.		0		
+Q	1	If the production possibilities, curve were a straight downsloping line, this would suggest that:		S	1		0	0	0	0
+A	1	 both products are equally capable of satisfying consumer wants.		1		
+A	1	it is possible to produce more of both products. 		0		
+A	1	resources are perfectly shiftable between the production of these two goods		0		
+A	1	the two products have identical prices.		0		
+Q	1	In a capitalist society, production and consumption are, regulated by the		S	1		0	0	0	0
+A	1	 Price system		1		
+A	1	Demand for the commodity 		0		
+A	1	The government		0		
+A	1	Private individuals		0		
+Q	1	In a sole proprietorship decisions are made by the		S	1		0	0	0	0
+A	1	Government		1		
+A	1	Board of directors		0		
+A	1	 Management		0		
+A	1	Shareholders (e) Owners		0		
+Q	1	In Economics human wants are usually described as		S	1		0	0	0	0
+A	1	Insatiable		1		
+A	1	Many 		0		
+A	1	 Limited		0		
+A	1	Numerous		0		
+Q	1	In economics, the pleasure, happiness, or satisfaction received from a product is called:		S	1		0	0	0	0
+A	1	Utility		1		
+A	1	Marginal cost. 		0		
+A	1	Rational outcome		0		
+A	1	 Status fulfillment		0		
+Q	1	Investment and saving are, respectively:		S	1		0	0	0	0
+A	1	income and wealth		1		
+A	1	stocks and flows		0		
+A	1	 injections and leakages		0		
+A	1	leakages and injections.		0		
+Q	1	Macroeconomics can best be described as the:		S	1		0	0	0	0
+A	1	study of the large aggregates of the economy or the economy as a whole		1		
+A	1	analysis of how a consumer tries to spend income 		0		
+A	1	 analysis of how firms attempt to maximize their profits		0		
+A	1	study of how supply and demand determine prices in individual markets.		0		
+Q	1	Marginal cost curve intersects average cost curve		S	1		0	0	0	0
+A	1	from above at its lowest point		1		
+A	1	from below before the lowest point		0		
+A	1	 from below at its lowest point		0		
+A	1	from below after the lowest point (e) at the zenith of turn		0		
+Q	1	Marginal Product (MP) is best defined as		S	1		0	0	0	0
+A	1	(Change in total product)/(Change in variable factor)		1		
+A	1	(Total product )/(No of labour) 		0		
+A	1	(Total product)/(Fixed factor)		0		
+A	1	(Average product)/(No of labour)		0		
+Q	1	Marginal propensity to consumer (MPC) is calculated using one of the following formulae  &#x000A;		S	1		0	0	0	0
+A	1	MPC=(Change in consumption)/(Change in income)  &#x000A;		1		
+A	1	MPC=(Change in saving)/(Change in income) &#x000A; 		0		
+A	1	 MPC=1/(1-MPC)=1/MPS  &#x000A;		0		
+A	1	MPC=(Total saving)/(Total income)		0		
+Q	1	One disadvantage of sole proprietorship is its		S	1		0	0	0	0
+A	1	Limited liability		1		
+A	1	High profits		0		
+A	1	 High sense of ownership		0		
+A	1	Low credit rating (e) Low failure value		0		
+Q	1	Optimum population is desirable because it enables an economy to attain maximum		S	1		0	0	0	0
+A	1	Per capital income		1		
+A	1	Per capital output		0		
+A	1	 Per capital real income		0		
+A	1	Per capita revenue (e) Growth rate.		0		
+Q	1	Price legislation can b defined as		S	1		0	0	0	0
+A	1	How the government fixes the prices of essential commodities		1		
+A	1	How price fluctuates in the market 		0		
+A	1	How prices are controlled in the marker		0		
+A	1	 How to avoid inflation		0		
+Q	1	Productive efficiency refers to:		S	1		0	0	0	0
+A	1	the production of the product-mix most wanted by		1		
+A	1	the use of the least-cost method of production 		0		
+A	1	 the full employment of all available resources.		0		
+A	1	production at some points inside of the production possibilities curve.		0		
+Q	1	Supply is said to be inelastic when the coefficient of elasticity of supply is		S	1		0	0	0	0
+A	1	0.5		1		
+A	1	Infinity,		0		
+Q	1	The amount by which government expenditures exceed revenues during a particular year is the:		S	1		0	0	0	0
+A	1	 full-employment.		1		
+A	1	public debt. 		0		
+A	1	budget deficit.		0		
+A	1	GDP gap.		0		
+Q	1	The basic concepts of Economics are		S	1		0	0	0	0
+A	1	Wants, scarcity, choice, scale of preference and opportunity cost		1		
+A	1	Choice, scarcity, resources and efficiency 		0		
+A	1	 Wants, scarcity and choice		0		
+A	1	Wants, choice, scale of preference and opportunity cost		0		
+Q	1	The basic formula for the price elasticity of demand coefficient is:		S	1		0	0	0	0
+A	1	% change in quantity demanded/% change in price.		1		
+A	1	absolute decline in quantity demanded/ absolute increase in price 		0		
+A	1	absolute decline in price/absolute increase in quantity demanded		0		
+A	1	 % change in price/% change in quantity demanded		0		
+Q	1	The best index for comparison of standard of living is the		S	1		0	0	0	0
+A	1	Gross National Product		1		
+A	1	Net National Income		0		
+A	1	 Per capital income		0		
+A	1	Gross National Income.		0		
+Q	1	The concept of economic efficiency refers to		S	1		0	0	0	0
+A	1	 Equity in the distribution of national resource		1		
+A	1	Obtaining the maximum output from available resources at the lowest possible		0		
+A	1	Conservation of natural gas and oil deposits		0		
+A	1	Producing without waste (e) The limited wants unlimited resources dilemma.		0		
+Q	1	The discount rate is the interest:		S	1		0	0	0	0
+A	1	yield on long-term government bonds.		1		
+A	1	rate at which the Central Bank of Nigeria lends to the Nigerian Government 		0		
+A	1	 rate at which commercial banks lend to the public		0		
+A	1	rate at which the Central bank of Nigeria lend to commercial banks.		0		
+Q	1	The equilibrium price is		S	1		0	0	0	0
+A	1	N30		1		
+A	1	N10		0		
+A	1	None of the above 2		0		
+Q	1	The following are advantages of socialism except		S	1		0	0	0	0
+A	1	Promotion of high standard of living		1		
+A	1	Equitable distribution of resources 		0		
+A	1	Absence of exploitation		0		
+A	1	 Equitable distribution of income		0		
+Q	1	The following are features of a free market economy except,		S	1		0	0	0	0
+A	1	Joint decision-making by the citizens in a society		1		
+A	1	Private ownership of properties 		0		
+A	1	Existence of competition		0		
+A	1	 High level of profit maximization by private investors		0		
+Q	1	The following are the advantages of internal economics of large scale production except		S	1		0	0	0	0
+A	1	Administrative economics		1		
+A	1	Financial economics 		0		
+A	1	 Technical economies		0		
+A	1	Market economies		0		
+Q	1	The greater is the marginal propensity to consume, the:		S	1		0	0	0	0
+A	1	higher is the interest rate.		1		
+A	1	smaller is the marginal propensity to save. 		0		
+A	1	 lower is the average propensity to consume.		0		
+A	1	lower is the price level.		0		
+Q	1	The marginal theory of distribution makes an assertion that the price of any factor depends upon its marginal		S	1		0	0	0	0
+A	1	Productivity		1		
+A	1	Unity		0		
+A	1	 Rate of substitution		0		
+A	1	Revenue (e) Proceeds		0		
+Q	1	The monetary system that requires double coincidence of wants is known as		S	1		0	0	0	0
+A	1	The cheque system.		1		
+A	1	The gold standard		0		
+A	1	The Barter practice		0		
+A	1	 The commodity system		0		
+Q	1	The most popularly adopted industrialization strategy in West Africans		S	1		0	0	0	0
+A	1	Export promotion		1		
+A	1	Import substitution		0		
+A	1	 Parts development		0		
+A	1	Infant industries protection		0		
+Q	1	The primary problem of economics is		S	1		0	0	0	0
+A	1	Increasing the quantity of the fixed factor of production.		1		
+A	1	to obtain more equitable distribution of money income 		0		
+A	1	production of a given output with the lowest cost combination of factors of production		0		
+A	1	 Adoption of capital-intensive technology		0		
+Q	1	The revenue accruing to the seller of commodity X as a result of a fall in price will		S	1		0	0	0	0
+A	1	fall		1		
+A	1	NA 		0		
+A	1	 first fall but increase later		0		
+A	1	Remain unchanged (e) change noticeably		0		
+Q	1	The total population of a country is 720 million people and this is represented by the pie chart below. The total active population in the country is,		S	1		0	0	0	0
+A	1	360M		1		
+A	1	400M 		0		
+A	1	200M		0		
+A	1	 520M		0		
+Q	1	The total population of a country is 720 million people and this is represented by the pie chart below. The total population who are children is		S	1		0	0	0	0
+A	1	240M		1		
+A	1	360M 		0		
+A	1	120M		0		
+A	1	 520M		0		
+Q	1	The total population of a country is 720 million people and this is represented by the pie chart below. The total population within age group 61 years and above is		S	1		0	0	0	0
+A	1	120M		1		
+A	1	200M		0		
+A	1	100M		0		
+A	1	80M		0		
+Q	1	The value of money is measured in terms of price index as follows:		S	1		0	0	0	0
+A	1	Price index=(price in the current year)/(Price in the previours year)?100%		1		
+A	1	Price index=(price in the previours year)/(price in the current		0		
+A	1	 Price index=(price in the current year)/(velocity of circulation of		0		
+A	1	Price index=(price in the base year)/(Price in the current year)?100%		0		
+Q	1	The value of money varies		S	1		0	0	0	0
+A	1	inversely with the price level.		1		
+A	1	directly with the volume of employment.		0		
+A	1	 directly with the price		0		
+A	1	directly with the interest rate.		0		
+Q	1	Under partnership, investors who have no desire to be actively involved in the day-to-day management of such organizations are called		S	1		0	0	0	0
+A	1	Stock brokers		1		
+A	1	Sleeping partners		0		
+A	1	 Part-time investor		0		
+A	1	Ordinary partners (e) Debenture holders		0		
+Q	1	Unemployment involving a mismatch of the skills of unemployed workers and the skills required for available jobs is called:		S	1		0	0	0	0
+A	1	structural unemployment		1		
+A	1	frictional unemployment 		0		
+A	1	 cyclical unemployment.		0		
+A	1	compositional unemployment.		0		
+Q	1	Utility maximization occurs when one of the following conditions is attained		S	1		0	0	0	0
+A	1	Mux/Px=Muy/Py		1		
+A	1	Mu=?TU/?Q 		0		
+A	1	 Px/Mux=Py/Muy		0		
+A	1	Mux/Muy=Pxy/Muxy		0		
+Q	1	When economists say that people act rationally in their self interest, they mean that individuals:		S	1		0	0	0	0
+A	1	look for and pursue opportunities to increase their utility.		1		
+A	1	generally disregard the interests of others.		0		
+A	1	 are mainly creatures of habit		0		
+A	1	are unpredictable.		0		
+Q	1	Which of the following best describes a perfectly inelastic demand function?		S	1		0	0	0	0
+A	1	 Price and quantity demanded changes by some percentage		1		
+A	1	The quantity demanded is insensitive to changes in price		0		
+A	1	Price is insensitive to changes in quantity demanded.		0		
+A	1	The demand function is horizontal.		0		
+Q	1	Which of the following is an example of invisible item on balance of payments account?		S	1		0	0	0	0
+A	1	Shipping and aviation		1		
+A	1	Import and Export		0		
+A	1	 Merchandise		0		
+A	1	Bullion (e) Tariffs.		0		
+Q	1	Which of the following is NOT a limitation to division of labour and specialization		S	1		0	0	0	0
+A	1	The size of the market		1		
+A	1	Availability of capital		0		
+A	1	 Interdependence among the workers		0		
+A	1	The nature of the product		0		
+Q	1	Which of the following is NOT true of a market demand schedule?		S	1		0	0	0	0
+A	1	 it is a table showing the different quantities of a commodity which a consumer would purchase at various prices.		1		
+A	1	it is a schedule of all consumers of a commodity in a market 		0		
+A	1	it is the aggregate demand schedule of all consumers of a commodity in a market		0		
+A	1	it is a table showing the composite demand schedule of all consumers of a commodity in a market.		0		
+Q	1	Which of the following is TRUE of Marginal cost?		S	1		0	0	0	0
+A	1	it is the cost of producing one extra unit of a commodity at any output level		1		
+A	1	it is a cost incurred by the firm on variable inputs 		0		
+A	1	 it is the sum of the fixed cost and variable cost		0		
+A	1	it is referred to as overhead cost.		0		
+Q	1	Which of the following items is NOT a variable cost		S	1		0	0	0	0
+A	1	Cost of machine		1		
+A	1	Cost of electricity		0		
+A	1	 Salaries and wages		0		
+A	1	Cost of raw materials		0		
+Q	1	Which of the following statements is correct?		S	1		0	0	0	0
+A	1	If demand increases and supply decreases, equilibrium price will fall.		1		
+A	1	If supply increases and demand decreases, equilibrium price will fall.		0		
+A	1	 It demand decreases and supply increases, equilibrium price will rise.		0		
+A	1	If supply declines and demand remains constant, equilibrium price will fall.		0		
+Q	1	Which of the following statements is false?		S	1		0	0	0	0
+A	1	Tables and graphs are focus of arithmetic technique used in economics to present ideas pictorially		1		
+A	1	Ends in Economics are the resources with which it can attain our goals		0		
+A	1	 Three basic questions every economy must answer are what to produce, how to produce and for whom to produce		0		
+A	1	A and B are substitutes if the supply of a increases, the price of B will tend to increases.		0		
+Q	1	Which of the following statements is true?		S	1		0	0	0	0
+A	1	A variable defined over a period of time is called a stock variable		1		
+A	1	Microeconomics analyses interaction in the economy as a whole.		0		
+A	1	The market demand curve for commodity will shift to the right if the price of its substitutes falls.		0		
+Q	1	Which of these is not included in measuring national income by the income approach?		S	1		0	0	0	0
+A	1	Wages and salaries of public servants		1		
+A	1	students bursaries and scholarships		0		
+A	1	 Profit of international		0		
+A	1	Income of self employed persons (e) Rents on property.		0		
+Q	1	Which of this is likely to be inflationary		S	1		0	0	0	0
+A	1	Tax increase		1		
+A	1	Budget surplus		0		
+A	1	 Increase in unemployment		0		
+A	1	Wage increase (e) increase in labour supply.		0		

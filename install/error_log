@@ -1,0 +1,12 @@
+[01-Nov-2018 08:17:06 UTC] PHP Warning:  rename(../shared/config.default,../shared/config): No such file or directory in /home/htreasurecom/public_html/install/prime_functions_install.php on line 248
+[01-Nov-2018 08:17:06 UTC] PHP Warning:  rename(../control/config.default,../control/config): No such file or directory in /home/htreasurecom/public_html/install/prime_functions_install.php on line 249
+[01-Nov-2018 08:17:06 UTC] PHP Warning:  rename(../exam/config.default,../exam/config): No such file or directory in /home/htreasurecom/public_html/install/prime_functions_install.php on line 250
+[08-Dec-2019 11:56:04 UTC] PHP Warning:  rename(../shared/config.default,../shared/config): No such file or directory in /home/htreasur/public_html/htreasure.com.ng/i/prime_functions_install.php on line 248
+[08-Dec-2019 11:56:04 UTC] PHP Warning:  rename(../control/config.default,../control/config): No such file or directory in /home/htreasur/public_html/htreasure.com.ng/i/prime_functions_install.php on line 249
+[08-Dec-2019 11:56:04 UTC] PHP Warning:  rename(../exam/config.default,../exam/config): No such file or directory in /home/htreasur/public_html/htreasure.com.ng/i/prime_functions_install.php on line 250
+[08-Dec-2019 11:57:38 UTC] PHP Warning:  rename(../shared/config.default,../shared/config): No such file or directory in /home/htreasur/public_html/htreasure.com.ng/i/prime_functions_install.php on line 248
+[08-Dec-2019 11:57:38 UTC] PHP Warning:  rename(../control/config.default,../control/config): No such file or directory in /home/htreasur/public_html/htreasure.com.ng/i/prime_functions_install.php on line 249
+[08-Dec-2019 11:57:38 UTC] PHP Warning:  rename(../exam/config.default,../exam/config): No such file or directory in /home/htreasur/public_html/htreasure.com.ng/i/prime_functions_install.php on line 250
+[08-Dec-2019 12:00:55 UTC] PHP Warning:  rename(../shared/config.default,../shared/config): No such file or directory in /home/htreasur/public_html/htreasure.com.ng/i/prime_functions_install.php on line 248
+[08-Dec-2019 12:00:55 UTC] PHP Warning:  rename(../control/config.default,../control/config): No such file or directory in /home/htreasur/public_html/htreasure.com.ng/i/prime_functions_install.php on line 249
+[08-Dec-2019 12:00:55 UTC] PHP Warning:  rename(../exam/config.default,../exam/config): No such file or directory in /home/htreasur/public_html/htreasure.com.ng/i/prime_functions_install.php on line 250

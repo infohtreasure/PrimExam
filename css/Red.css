@@ -1,0 +1,34 @@
+nav a {
+  color: #900 !important;
+}
+
+nav a:hover,
+nav a:focus {
+  outline: none;
+  color: #a00 !important;
+}
+
+.menu-ul h5{
+	background-color: #c00;
+}
+
+.menu-ul a{
+	color: #c0c;
+}
+
+.menu-ul li:last-child a{
+	border-bottom-color: transparent;
+}
+
+.menu-ul a:hover, .menu-ul a:focus{
+	color: #c65;
+}
+
+.min-overlay{
+  background-color: rgba(180,0,0,0.3);
+  padding: 10px;
+  color: #fff;
+  border: #fff solid thin;
+  border-radius: 8px;
+
+}

@@ -1,0 +1,33 @@
+public/			exam/
+code			code		
+config			config
+log			logs
+styles			css
+
+admin/			control/
+code			code		
+config			config
+log			logs
+styles			css
+
+04:31:40 upload start time for bulk users
+2166 user imported in 240 seconds
+Fatal error: Maximum execution time of 240 seconds exceeded in C:\wamp\www\web\shared\code\prime_db_dal_mysqli.php on line 87
+<!---->
+Increase upoad limit in php ini file
+Increase maximum execution time in php ini file
+Increase 
+post_max_size = 5120M
+file_uploads = On
+upload_max_filesize = 1024M
+<!---->
+to change exam time
+exam/css/default.css
+exam/prime_test_execute.php/ line 111-129
+<!---->
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
